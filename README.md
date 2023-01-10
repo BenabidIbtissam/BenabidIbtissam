@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbtissemeBENEBID
 - 👀 I’m interested in Data-siences and chatbots
-- 🌱 I’m currently learning data-siences and c
+- 🌱 I’m currently a full stack developer
 - 💞️ I’m looking to collaborate on some projects in this platforms
 - 📫 to reach me : ibtisseme2019@gmail.com
 
